@@ -3,8 +3,8 @@
 ## I'm a Student, Deputy-CEO and Developer!
 - 🔭 I’m currently working on a getting into the Adelaide Uni in the Artificial Intelligence computer science course.
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to refine my python skills.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to refine my python skills for game hacking.
+- 🥅 2020 Goals: Contribute more to Open Source project.
 - ⚡ Fun fact: I love a good anime
 
 ### Connect with me:
@@ -12,7 +12,6 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -32,7 +31,7 @@
 <br />
 <br />
 
-[website]: https://codeSTACKr.com
+[website]: https://www.skyenterprisesau.com/
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://www.youtube.com/channel/UC7lAsf7F5g4IBQWLfTA4SnQ?view_as=subscriber
 [instagram]: https://instagram.com/codeSTACKr
